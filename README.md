@@ -1,9 +1,11 @@
-# I'm Ángel Castañeda
+I'm Ángel Castañeda
+===
 
-I use:
+I like to use:
 
-- golang🐹
-- html📄, css🎨, and javascript💥🌐
-- scheme lisp🏸
-- r📊
-- sqlite📜🪶 and pgsql🐘🛢️
+* golang🐹
+* html📄, css🎨, and javascript💥🌐
+* scheme lisp🏸
+* R📊
+* sqlite📜🪶 and pgsql🐘🛢️
+* $\LaTeX{}$ 🖋️🧮
