@@ -6,6 +6,6 @@ I like to use:
 * golang🐹
 * html📄, css🎨, and javascript💥🌐
 * scheme lisp🏸
-* R📊
+* r📊
 * sqlite📜🪶 and pgsql🐘🛢️
-* $\LaTeX{}$ 🖋️🧮
+* $\LaTeX{}$🖋️🧮
